@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/2_ghpages_react_starwars/static/css/main.0541ed58.chunk.css",
+    "main.js": "/2_ghpages_react_starwars/static/js/main.8075f20b.chunk.js",
+    "main.js.map": "/2_ghpages_react_starwars/static/js/main.8075f20b.chunk.js.map",
+    "runtime-main.js": "/2_ghpages_react_starwars/static/js/runtime-main.847af091.js",
+    "runtime-main.js.map": "/2_ghpages_react_starwars/static/js/runtime-main.847af091.js.map",
+    "static/js/2.729f995c.chunk.js": "/2_ghpages_react_starwars/static/js/2.729f995c.chunk.js",
+    "static/js/2.729f995c.chunk.js.map": "/2_ghpages_react_starwars/static/js/2.729f995c.chunk.js.map",
+    "static/js/3.96d947f1.chunk.js": "/2_ghpages_react_starwars/static/js/3.96d947f1.chunk.js",
+    "static/js/3.96d947f1.chunk.js.map": "/2_ghpages_react_starwars/static/js/3.96d947f1.chunk.js.map",
+    "index.html": "/2_ghpages_react_starwars/index.html",
+    "static/css/main.0541ed58.chunk.css.map": "/2_ghpages_react_starwars/static/css/main.0541ed58.chunk.css.map",
+    "static/js/2.729f995c.chunk.js.LICENSE.txt": "/2_ghpages_react_starwars/static/js/2.729f995c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.847af091.js",
+    "static/js/2.729f995c.chunk.js",
+    "static/css/main.0541ed58.chunk.css",
+    "static/js/main.8075f20b.chunk.js"
+  ]
+}
